@@ -1,0 +1,7 @@
+Bread@60,0000@20
+Buckwheat@92,6000@30
+Milk@90,0000@40
+Apple@20,0000@50
+Stew@385,5000@60
+Condensed milk@127,8000@70
+Sugar@75,0000@80
